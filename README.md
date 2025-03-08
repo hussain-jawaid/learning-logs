@@ -20,4 +20,4 @@ A Django-based web application for logging and organizing learning topics and en
 ## Installation 🛠️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hussain-jawaid/learning_log
+   git clone https://github.com/hussain-jawaid/learning-logs
