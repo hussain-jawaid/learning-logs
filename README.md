@@ -21,3 +21,4 @@ A Django-based web application for logging and organizing learning topics and en
 1. Clone the repository:
    ```bash
    git clone https://github.com/hussain-jawaid/learning-logs
+   live demo https://stormy-cove-56665-fd33d1ade514.herokuapp.com
