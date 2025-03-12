@@ -1,8 +1,6 @@
 # Learning Log - Track Your Knowledge Journey 📚
 
-![Learning Log Banner](images/banner.png)
-
-A Django-based web application for logging and organizing learning topics and entries.
+![Learning Log Banner](images/banner.png) A Django-based web application for logging and organizing learning topics and entries.
 ---
 
 ## Features ✨
