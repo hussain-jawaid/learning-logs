@@ -2,8 +2,7 @@
 
 ![Learning Log Banner](images/banner.png)
 
-A Django-based web application for logging and organizing learning topics and entries. Built as part of [*Python Crash Course*](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes.
-
+A Django-based web application for logging and organizing learning topics and entries.
 ---
 
 ## Features ✨
